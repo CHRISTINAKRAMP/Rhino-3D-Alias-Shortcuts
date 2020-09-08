@@ -1,5 +1,5 @@
 # Rhino-3D-Alias-Shortcuts
-A custom set of Rhino3D v6 Alias shortcuts based upon the Maxwan AutoCAD shortcuts and the on @DarrelDonald aliases.
+A custom set of Rhino3D v6 Alias shortcuts based upon the Maxwan AutoCAD shortcuts and the on @DarrelRonald aliases.
 
 These roughly 215 shortcuts have been developed by Christina Krampokouki and Jan Cyganski based on @DarrelRonald. Rhinoceros aliases can be used to make command scripts smaller by substituting a word for a whole macro or part of a macro. It drastically speeds up your drawing. If you want to add new Aliases, you can refer to the weblink below.
 
